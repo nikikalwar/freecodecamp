@@ -1,0 +1,11 @@
+const ShoppingCart = (props) => {
+  return (
+    ShoppingCart.defaultProps={
+      items:0
+    },
+    <div>
+      <h1>Shopping Cart Component</h1>
+    </div>
+  )
+};
+// change code below this line
